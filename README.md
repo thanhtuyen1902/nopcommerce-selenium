@@ -16,3 +16,10 @@ This project is built to demonstrate UI automation testing on an e-commerce webs
 - **Git, GitHub**
 - **Extent Report**
 - **Jenkins**
+
+## ✅ Test Cases Implemented
+
+- ✅ User Registration
+- ✅ User Login
+- ✅ Search Product
+- ✅ Logout Functionality
