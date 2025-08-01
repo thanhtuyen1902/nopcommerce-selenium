@@ -1,15 +1,16 @@
-# 🚀 nopcommerce-selenium
+# OrangeHRM UI Automation Project
 
-Automation UI Test Project for [nopCommerce demo site](https://demo.nopcommerce.com) using **Selenium WebDriver**, **Java**, and **TestNG**.
+This is a UI automation testing project for the [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/)  
+Developed using **Java**, **Selenium WebDriver**, **TestNG**, and **Page Object Model (POM)** design pattern.
 
 ## 📌 Overview
-
-This project is built to demonstrate UI automation testing on an e-commerce website (nopCommerce). It follows the **Page Object Model (POM)** design pattern, using **Selenium WebDriver** for browser automation and **TestNG** for test management.
+This project is built to demonstrate UI automation testing on the OrangeHRM web application.  
+It follows the **Page Object Model (POM)** design pattern, utilizing **Selenium WebDriver** for browser automation and **TestNG** for test management.
 
 ## 🛠 Tech Stack
 
 - **Selenium WebDriver**
-- **Java 8+**
+- **Java**
 - **TestNG**
 - **Maven**
 - **Page Object Model (POM)**
@@ -19,7 +20,4 @@ This project is built to demonstrate UI automation testing on an e-commerce webs
 
 ## ✅ Test Cases Implemented
 
-- ✅ User Registration
-- ✅ User Login
-- ✅ Search Product
-- ✅ Logout Functionality
+
