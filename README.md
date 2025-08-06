@@ -1,10 +1,6 @@
-# OrangeHRM UI Automation Project
-
-This is a UI automation testing project for the [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/)  
-Developed using **Java**, **Selenium WebDriver**, **TestNG**, and **Page Object Model (POM)** design pattern.
 
 ## 📌 Overview
-This project is built to demonstrate UI automation testing on the OrangeHRM web application.  
+This project is built to demonstrate UI automation testing on the Nopcommerce web application.  
 It follows the **Page Object Model (POM)** design pattern, utilizing **Selenium WebDriver** for browser automation and **TestNG** for test management.
 
 ## 🛠 Tech Stack
@@ -18,6 +14,5 @@ It follows the **Page Object Model (POM)** design pattern, utilizing **Selenium 
 - **Extent Report**
 - **Jenkins**
 
-## ✅ Test Cases Implemented
 
 
